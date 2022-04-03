@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1649024171 source:d:\unlam\progra2022\tp1\ej18\diasentrefechas\main.c
+	"header.h"
+
+1649023697 d:\unlam\progra2022\tp1\ej18\diasentrefechas\header.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1649024165 source:d:\unlam\progra2022\tp1\ej18\diasentrefechas\funciones.c
+	"header.h"
+
